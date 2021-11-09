@@ -20,6 +20,7 @@ Rquirement for use;
   
 *Replace <password> with the password for the user. Replace myFirstDatabase with the name of the database that connections will use by default. Ensure any option params are URL encoded.
   
-*In the index.js file of this project, connect mongoose to this url
+*Create a ".env" file and input your mongo url, crypto-js password secret key, and Jwt secret keys.
+NB:// open the ".env_sample" file in this project for guidance
 
 Viol!! You have your free rest-api. You can modify it and use it in any web appliaction project you are working on.
