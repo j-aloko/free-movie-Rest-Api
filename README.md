@@ -1,2 +1,2 @@
 # free-movie-Rest-Api
-This Rest Api i developed can be modified and reused in any web application project you are working on. See "README File" for instructions on how to use
+Checkout my master branch for the code base and Instructions on how to properly use it in your project.
